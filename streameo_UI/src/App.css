@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Bruno Ace', cursive;
+    color: white;
+}
+
+body{
+    background-image: url('./images/body-bg.gif');
+}
